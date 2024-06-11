@@ -15,13 +15,13 @@ To run the app locally, follow these steps:
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/yourusername/data-visualization-app.git
+    git clone https://github.com/Mohanragul-01/data-visualizer-app.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd data-visualization-app
+    cd data-visualizer-app
     ```
 
 3. Install the required dependencies:
@@ -35,7 +35,7 @@ To run the app locally, follow these steps:
 To start the app, run the following command:
 
 ```
-streamlit run app.py
+streamlit run main.py
 ```
 
 This will launch the app in your default web browser. From there, you can upload your datasets and explore them using the interactive visualizations.
